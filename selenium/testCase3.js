@@ -26,7 +26,7 @@ const sleep = promisify(setTimeout);
         itemType: "Fluffy Bunny",
         id: "4",
         price: 9.99,
-        toBuy: 2
+        toBuy: 5
     }, {
         itemType: "Stuffed Frog",
         id: "7",
